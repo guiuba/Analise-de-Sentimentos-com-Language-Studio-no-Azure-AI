@@ -10,3 +10,7 @@ Utilizando **Language Studio** para análise de texto com **análise de sentimen
 📄 **Documentação oficial:** [aka.ms/ai900-text-analysis](https://aka.ms/ai900-text-analysis)  
 
 ## 🔍 Análise de Inputs Adicionais  
+
+## Passo 1  
+🔹 **Abrir a página do Portal:** [Azure Portal](https://portal.azure.com/#home)  
+🔹 **Clicar para criar um recurso.**  
