@@ -1,4 +1,4 @@
-# Analise de Sentimentos com Language Studio no Azure AI
+m # Analise de Sentimentos com Language Studio no Azure AI
 Lab da plataforma DIO sobre  Azure Speech Studio e o Language Studio, explorando habilidades em análise de fala e linguagem no Microsoft Azure.
 # Language Studio - Microsoft Azure  
 
@@ -18,7 +18,7 @@ Utilizando **Language Studio** para análise de texto com **análise de sentimen
 ![Image](https://github.com/user-attachments/assets/693629c4-cb13-431f-bbe2-a821af2c469c)
 
 ## Passo 2  
-✅ Com as funcionalidades adicionadas, basta clicar em **"Continue to create your resource"**.  
+✅ À esquerda, em **"Categorias"**, selecione **"IA + Machine Learning"** e à direita, selecione **"Criar"** em **"Serviço de Linguagem"**.  Com as funcionalidades adicionadas, basta clicar em **"Continue to create your resource"**.  
 
 ![Image](https://github.com/user-attachments/assets/de330fed-e1b0-4953-a187-a3be306759e9)
 
