@@ -14,3 +14,5 @@ Utilizando **Language Studio** para análise de texto com **análise de sentimen
 ## Passo 1  
 🔹 **Abrir a página do Portal:** [Azure Portal](https://portal.azure.com/#home)  
 🔹 **Clicar para criar um recurso.**  
+
+![Image](https://github.com/user-attachments/assets/693629c4-cb13-431f-bbe2-a821af2c469c)
