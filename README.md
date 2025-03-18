@@ -87,9 +87,14 @@ Clique em **"Ir para o recurso"**.
 ![Image](https://github.com/user-attachments/assets/e9e04e55-e11d-49f8-82fa-1df316793277)
 
 ## Análise de Inputs  
-Abaixo compartilho o resultado das frases que trouxe de exemplo em inputs.
+Abaixo compartilho o resultado das frases que testei para os inputs.
+
 ✅ Sentence 1
+
 ![Image](https://github.com/user-attachments/assets/5930ecd6-5606-4afa-9ba5-38a7d3080dac)
+
+![image](https://github.com/user-attachments/assets/6a9b36b8-e15d-407c-a6ff-72e34eeff7ed)
+
 
 ✅ Sentence 2
 
