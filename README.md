@@ -62,6 +62,8 @@ Clique em **"Ir para o recurso"**.
 ## Passo 6  
 🔗 Abra a página do [Language Studio](https://language.cognitive.azure.com/) com seu usuário logado.  
 
+![Image](https://github.com/user-attachments/assets/c4ded0f4-a3b2-4d33-bd87-f83929f2c07e)
+
 📝 Automaticamente, será exibida uma modal com as informações a preencher conforme a imagem abaixo.  
 Preencha os seguintes campos:  
 - **Azure Subscription**  
