@@ -69,7 +69,7 @@ Clique em **"Ir para o recurso"**.
 ## Passo 7  
 📝 Selecione o **idioma** do texto a ser utilizado (**English**).  
 
-📌 Insira seu próprio texto, carregue um arquivo ou utilize um dos textos de exemplo.  
+📌 Insira seu próprio texto, carregue um arquivo ou utilize um dos textos de exemplo fornecidos como este:  
 
 ![Image](https://github.com/user-attachments/assets/a1f2dc7d-345e-4f4a-b6fc-bc9b93ae56fb)
 
@@ -85,6 +85,10 @@ Clique em **"Ir para o recurso"**.
 ![Image](https://github.com/user-attachments/assets/9ea16c91-6e41-471d-95a4-8b2e23996e31)
 
 ![Image](https://github.com/user-attachments/assets/e9e04e55-e11d-49f8-82fa-1df316793277)
+
+## Análise de Inputs  
+Abaixo compartilho o resultado das frases que trouxe de exemplo em inputs.
+
 
 
 
