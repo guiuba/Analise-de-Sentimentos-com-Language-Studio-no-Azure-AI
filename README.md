@@ -73,6 +73,8 @@ Clique em **"Ir para o recurso"**.
 
 ![Image](https://github.com/user-attachments/assets/a1f2dc7d-345e-4f4a-b6fc-bc9b93ae56fb)
 
+![Image](https://github.com/user-attachments/assets/45e03bec-65f1-4c2e-a9f5-2821695ad589)
+
 
 
 
