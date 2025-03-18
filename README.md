@@ -88,7 +88,13 @@ Clique em **"Ir para o recurso"**.
 
 ## Análise de Inputs  
 Abaixo compartilho o resultado das frases que trouxe de exemplo em inputs.
+✅ Sentence 1
+![Image](https://github.com/user-attachments/assets/5930ecd6-5606-4afa-9ba5-38a7d3080dac)
 
+✅ Sentence 2
+
+
+✅ Sentence 3
 
 
 
