@@ -66,6 +66,12 @@ Clique em **"Ir para o recurso"**.
 
 ![Image](https://github.com/user-attachments/assets/aecf66f0-bf2a-46fe-b4c7-14232f1e1a5c)
 
+## Passo 7  
+📝 Selecione o **idioma** do texto a ser utilizado (**English**).  
+
+📌 Insira seu próprio texto, carregue um arquivo ou utilize um dos textos de exemplo.  
+
+
 
 
 
