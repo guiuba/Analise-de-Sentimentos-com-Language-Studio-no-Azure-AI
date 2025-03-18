@@ -45,6 +45,8 @@ Utilizando **Language Studio** para análise de texto com **análise de sentimen
 ## Passo 4  
 ✅ Depois da validação anterior, sua tela deve se parecer com esta: 
 
+![Image](https://github.com/user-attachments/assets/5588c116-04ed-4a79-a1ff-412fe05d41c4)
+
 
 
 
