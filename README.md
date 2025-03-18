@@ -71,6 +71,8 @@ Clique em **"Ir para o recurso"**.
 
 📌 Insira seu próprio texto, carregue um arquivo ou utilize um dos textos de exemplo.  
 
+![Image](https://github.com/user-attachments/assets/a1f2dc7d-345e-4f4a-b6fc-bc9b93ae56fb)
+
 
 
 
