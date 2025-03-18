@@ -49,6 +49,11 @@ Utilizando **Language Studio** para análise de texto com **análise de sentimen
 
 ![Image](https://github.com/user-attachments/assets/0e8b70a4-c616-4373-b437-5d35389be85e)
 
+## Passo 5  
+🛠️ Esta é a tela de finalização da criação do recurso.  
+Clique em **"Go to resource group"**.  
+
+
 
 
 
