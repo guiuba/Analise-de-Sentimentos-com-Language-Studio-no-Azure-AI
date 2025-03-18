@@ -57,6 +57,8 @@ Clique em **"Ir para o recurso"**.
 
 ✅ Em seguida aparece esta tela:
 
+![Image](https://github.com/user-attachments/assets/f3b49847-d3e6-4fd3-bdf5-b7b69bee2140)
+
 ## Passo 6  
 🔗 Abra a página do [Language Studio](https://language.cognitive.azure.com/) com seu usuário logado.  
 
