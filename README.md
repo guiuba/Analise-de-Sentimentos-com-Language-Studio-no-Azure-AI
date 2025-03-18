@@ -36,4 +36,6 @@ Utilizando **Language Studio** para análise de texto com **análise de sentimen
 
 ✅ Não esqueça de marcar a caixa com a observação de Responsabilidade AI:
 
+![Image](https://github.com/user-attachments/assets/32f0b207-d578-4e7b-a008-9bf0574e507b)
+
 
