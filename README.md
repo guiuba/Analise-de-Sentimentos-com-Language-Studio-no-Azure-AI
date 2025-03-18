@@ -78,6 +78,8 @@ Clique em **"Ir para o recurso"**.
 ## Passo 8  
 📊 **Resultados:**
 
+![Image](https://github.com/user-attachments/assets/9fc424bb-36d2-4d66-b89e-1fbe83142530)
+
 
 
 
