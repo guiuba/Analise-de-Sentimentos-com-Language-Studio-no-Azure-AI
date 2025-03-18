@@ -110,6 +110,19 @@ Abaixo compartilho o resultado das frases que testei para os inputs.
 
 ✅ Sentence 3
 
+![image](https://github.com/user-attachments/assets/82748ec9-142d-4241-991a-68fb81c247ef)
+
+![image](https://github.com/user-attachments/assets/bde7f6a9-8f0b-4028-9367-b767ed750af2)
+
+![image](https://github.com/user-attachments/assets/b08ef73c-45d9-4ce4-9e3b-e4fed3939eed)
+
+![image](https://github.com/user-attachments/assets/517d1ab1-90e3-49fa-a8d8-87212d64e402)
+
+✅ Comentários
+
+
+
+
 
 
 
