@@ -60,9 +60,11 @@ Clique em **"Ir para o recurso"**.
 ![Image](https://github.com/user-attachments/assets/f3b49847-d3e6-4fd3-bdf5-b7b69bee2140)
 
 ## Passo 6  
-🔗 Abra a página do [Language Studio](https://language.cognitive.azure.com/) com seu usuário logado.  
+🔗 Abra a página do [Language Studio](https://language.cognitive.azure.com/) com seu usuário logado. 
 
-![Image](https://github.com/user-attachments/assets/c4ded0f4-a3b2-4d33-bd87-f83929f2c07e)
+✅ Selecione **"Classify text"** e, em seguida **"Analyze sentiment and mine opinions"**
+
+![Image](https://github.com/user-attachments/assets/aecf66f0-bf2a-46fe-b4c7-14232f1e1a5c)
 
 📝 Automaticamente, será exibida uma modal com as informações a preencher conforme a imagem abaixo.  
 Preencha os seguintes campos:  
