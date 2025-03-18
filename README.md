@@ -30,6 +30,8 @@ Utilizando **Language Studio** para análise de texto com **análise de sentimen
 ✏️ Preencher as informações do recurso conforme a imagem abaixo.  
 - Escolha um **Resource Group**.  
 - Defina um **nome** (deve ser único).  
-- Selecione o **Pricing Tier** como **Free F0**.  
+- Selecione o **Pricing Tier** como **Free F0**.
+
+  ![Image](https://github.com/user-attachments/assets/a0d55077-7cf7-4dc6-8567-91ee8367c2fb) 
 
 
