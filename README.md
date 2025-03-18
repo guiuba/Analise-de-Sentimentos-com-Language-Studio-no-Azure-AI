@@ -47,6 +47,8 @@ Utilizando **Language Studio** para análise de texto com **análise de sentimen
 
 ![Image](https://github.com/user-attachments/assets/5588c116-04ed-4a79-a1ff-412fe05d41c4)
 
+![Image](https://github.com/user-attachments/assets/0e8b70a4-c616-4373-b437-5d35389be85e)
+
 
 
 
