@@ -55,6 +55,18 @@ Clique em **"Go to resource group"**.
 
 ![Image](https://github.com/user-attachments/assets/4787fe88-2e9c-4bb1-914e-e525d371745a)
 
+## Passo 6  
+🔗 Abra a página do [Language Studio](https://language.cognitive.azure.com/) com seu usuário logado.  
+
+📝 Automaticamente, será exibida uma modal com as informações a preencher conforme a imagem abaixo.  
+Preencha os seguintes campos:  
+- **Azure Subscription**  
+- **Resource Type**  
+- **Resource Group** (criado anteriormente)  
+
+Clique em **"Done"** para continuar.  
+
+
 
 
 
