@@ -38,4 +38,8 @@ Utilizando **Language Studio** para análise de texto com **análise de sentimen
 
 ![Image](https://github.com/user-attachments/assets/32f0b207-d578-4e7b-a008-9bf0574e507b)
 
+✅ E então clique em Review + create para a validação das informações
+
+
+
 
