@@ -1,0 +1,8 @@
+Sentence 1
+O hotel ofereceu uma estadia confortável, com quartos limpos e atendimento atencioso. A localização também foi excelente!
+
+Sentence 2
+The room was not very clean, and the bed was uncomfortable. The staff was not very helpful, and service was slow. Overall, a disappointing stay.
+
+Sentence 3
+La habitación era cómoda, pero el baño necesitaba más limpieza. El personal fue amable, aunque el servicio podría ser más rápido. En general, una experiencia aceptável.
