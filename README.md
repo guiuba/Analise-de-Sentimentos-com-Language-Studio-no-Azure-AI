@@ -53,7 +53,7 @@ Utilizando **Language Studio** para análise de texto com **análise de sentimen
 🛠️ Esta é a tela de finalização da criação do recurso.  
 Clique em **"Ir para o recurso"**.  
 
-![Image](https://github.com/user-attachments/assets/4787fe88-2e9c-4bb1-914e-e525d371745a)
+![Image](https://github.com/user-attachments/assets/74820223-351f-4b16-990a-08260e6e9ccc)
 
 ## Passo 6  
 🔗 Abra a página do [Language Studio](https://language.cognitive.azure.com/) com seu usuário logado.  
