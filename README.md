@@ -66,6 +66,8 @@ Preencha os seguintes campos:
 
 Clique em **"Done"** para continuar.  
 
+![Image](https://github.com/user-attachments/assets/de1c146a-6c77-49da-91f2-82b9618cbcd8)
+
 
 
 
