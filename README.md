@@ -98,6 +98,15 @@ Abaixo compartilho o resultado das frases que testei para os inputs.
 
 ✅ Sentence 2
 
+![image](https://github.com/user-attachments/assets/d3cdf6c8-f10a-4132-a9c7-9c02a7704ea0)
+
+![image](https://github.com/user-attachments/assets/61804341-c12c-40fb-9389-491345d5b72e)
+
+![image](https://github.com/user-attachments/assets/644a888f-ab8e-464d-9ba6-2f40a48718ba)
+
+
+
+
 
 ✅ Sentence 3
 
