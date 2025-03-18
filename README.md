@@ -32,6 +32,8 @@ Utilizando **Language Studio** para análise de texto com **análise de sentimen
 - Defina um **nome** (deve ser único).  
 - Selecione o **Pricing Tier** como **Free F0**.
 
-  ![Image](https://github.com/user-attachments/assets/a0d55077-7cf7-4dc6-8567-91ee8367c2fb) 
+  ![Image](https://github.com/user-attachments/assets/a0d55077-7cf7-4dc6-8567-91ee8367c2fb)
+
+✅ Não esqueça de marcar a caixa com a observação de Responsabilidade AI:
 
 
