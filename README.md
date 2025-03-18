@@ -120,6 +120,8 @@ Abaixo compartilho o resultado das frases que testei para os inputs.
 
 ✅ Comentários
 
+As análises apresentam resultados consistentes e satisfatórios, independentemente do idioma utilizado, seja inglês, português ou espanhol, conforme os exemplos extras que testei. É uma ferramenta poderosa, eficiente para múltiplos casos de uso em empresas, gostei muito!
+
 
 
 
