@@ -66,17 +66,8 @@ Clique em **"Ir para o recurso"**.
 
 ![Image](https://github.com/user-attachments/assets/aecf66f0-bf2a-46fe-b4c7-14232f1e1a5c)
 
-📝 Automaticamente, será exibida uma modal com as informações a preencher conforme a imagem abaixo.  
-Preencha os seguintes campos:  
-- **Azure Subscription**  
-- **Resource Type**  
-- **Resource Group** (criado anteriormente)  
 
-Clique em **"Done"** para continuar.  
 
-![Image](https://github.com/user-attachments/assets/de1c146a-6c77-49da-91f2-82b9618cbcd8)
-
-![Image](https://github.com/user-attachments/assets/c7787f12-bd88-435b-a703-20477eb032e9)
 
 
 
